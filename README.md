@@ -1,4 +1,3 @@
-# Cyclistic-Bike-Share-Case-Study
 # 🚴‍♀️ Cyclistic Bike-Share: Strategic Membership Conversion Analysis
 
 ### 📘 Project Overview
